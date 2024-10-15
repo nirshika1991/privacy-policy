@@ -37,7 +37,7 @@
 
     <h2>Contact Us</h2>
     <p>If you have any questions about this Privacy Policy, please contact us:</p>
-    <p>Email: support@example.com</p>
+    <p>Email: nirshikabuddhadasa@gmail.com</p>
 
 </body>
 </html>
